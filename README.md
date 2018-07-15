@@ -3,8 +3,9 @@
 Blockchain is an immutable, sequential chain of records called Blocks. They can contain transactions, files or any data you like, really. But the important thing is that they’re chained together using hashes.
 
 ## Installation
-
+```
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed. 
+```
 2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
 
 ```
